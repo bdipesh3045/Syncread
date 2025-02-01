@@ -1,0 +1,5 @@
+.env
+*__pycache__
+service.json
+photo.png
+install.txt
